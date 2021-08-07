@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: "Welcome to Hinagiku's Homepage"
+description: "Hinagiku's Homepage"
+permalink: "/stories/:title"
+url: https://hinagikugithub.github.io/Homepage/
